@@ -1,4 +1,4 @@
-# This is my end to end project
+# This is My End to End MLOPS Project
 
 # First initialize the git
 
